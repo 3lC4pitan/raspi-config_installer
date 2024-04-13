@@ -7,7 +7,10 @@ This shell script automates the installation of `raspi-config` on a Raspberry Pi
 1. Ensure you have sudo privileges on your Raspberry Pi.
 2. Clone or download this repository to your Raspberry Pi.
 
+```bash
 git clone https://github.com/3lC4pitan/raspi-config_installer.git
+```
+
 
 3. Navigate to the directory containing the script.
 
