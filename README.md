@@ -14,18 +14,22 @@ git clone https://github.com/3lC4pitan/raspi-config_installer.git
 
 3. Navigate to the directory containing the script.
 
+```bash
 cd ./raspi-config_installer/
-
+```
 4. Grants execute permissions to the script file and run it with sudo permissions.
 
+```bash
 sudo chmod +x raspi-config_installer.sh && sudo ./raspi-config_installer.sh
-
+```
 
 ## Usage
 
 After installation, you can run `raspi-config` by executing the following command with sudo:
 
+```bash
 sudo raspi-config
+```
 
 ## Notes
 
